@@ -1,8 +1,8 @@
 # Gesture Recognition Case study IIITB Assignment
 
 Developed by:
-1. [Abhishek Jain]
-2. [Ramyasree Amaravathi]
+1. Abhishek Jain
+2. Ramyasree Amaravathi
 
 ### Problem Statement
 Imagine you are working as a data scientist at a home electronics company which manufactures state of the art smart televisions. You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote.
@@ -36,7 +36,7 @@ The training data consists of a few hundred videos categorised into one of the f
 
 ### Results:
 
-![observations](https://user-images.githubusercontent.com/29462447/86066095-d501aa80-ba8e-11ea-82d8-4681e20e310e.png)
+![observations] (https://github.com/abhishekdmc4/GestureRecognition/blob/main/CaptureGR.JPG)
 
 I choose Conv3D based model as the final choice due to fairly decent accuracy considering the type of data as well the no. of parameters as I wanted my model to be light weight in nature.
 
