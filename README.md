@@ -36,7 +36,7 @@ The training data consists of a few hundred videos categorised into one of the f
 
 ### Results:
 
-![observations] (https://github.com/abhishekdmc4/GestureRecognition/blob/main/CaptureGR.JPG)
+![Screenshot](CaptureGR.Jpg)
 
 I choose Conv3D based model as the final choice due to fairly decent accuracy considering the type of data as well the no. of parameters as I wanted my model to be light weight in nature.
 
